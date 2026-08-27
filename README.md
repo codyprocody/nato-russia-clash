@@ -14,4 +14,6 @@ No build step is needed. Open `index.html` in a browser, or serve the folder wit
 
 ## Changelog
 
+**2026-08-28 — [Public HTTPS deployment](https://github.com/codyprocody/nato-russia-clash/commits/main) — Externally accessible.** Added a hardened Nginx configuration for the public static site, HTTPS-only access, and automatic certificate renewal compatibility.
+
 **2026-08-28 — [Initial dashboard](https://github.com/codyprocody/nato-russia-clash/commits/main) — Project created.** Added a local-first event log, editable signal board, transparent watch-level calculation, and clear limits on what the assessment can claim.
