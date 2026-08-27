@@ -14,6 +14,8 @@ No build step is needed. Open `index.html` in a browser, or serve the folder wit
 
 ## Changelog
 
+**2026-08-28 — [Two-risk assessment](https://github.com/codyprocody/nato-russia-clash/commits/main) — Split military and hybrid risk.** Replaced the misleading single score with separate 30-day estimates for a deliberate conventional attack (1%) and a new serious hybrid/disruptive action (80%), with definitions, source links, and review timestamps.
+
 **2026-08-28 — [Initial 30-day assessment](https://github.com/codyprocody/nato-russia-clash/commits/main) — Added a starting percentage.** The live dashboard now opens with a clearly labeled 1% analytical assessment for a conventional Russian attack on any NATO country within the next 30 days, with source links and rationale.
 
 **2026-08-28 — [Minimal dashboard](https://github.com/codyprocody/nato-russia-clash/commits/main) — Simplified the interface.** Replaced the editorial landing-page layout with a direct question, percentage, reasoning, review times, and history.
