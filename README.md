@@ -8,11 +8,13 @@ No build step is needed. Open `index.html` in a browser, or serve the folder wit
 
 ## How it works
 
-- Five editable signal categories produce a transparent 0–100 average.
-- The result is labeled as a heuristic signal, never a likelihood or certainty.
-- Events, notes, sources, and scoring choices live only in browser local storage.
+- Each scheduled review records one editable 0–100 percentage assessment.
+- The assessment is accompanied by reasoning and optional public-source links.
+- The dashboard retains the 06:00, 12:00, and 18:00 Europe/Tallinn review history in browser local storage.
 
 ## Changelog
+
+**2026-08-28 — [Scheduled assessment log](https://github.com/codyprocody/nato-russia-clash/commits/main) — Percentage-first dashboard.** Reworked the dashboard around one recorded percentage, a concise justification, a complete assessment history, and three daily review checkpoints at 06:00, 12:00, and 18:00 EEST.
 
 **2026-08-28 — [Public HTTPS deployment](https://github.com/codyprocody/nato-russia-clash/commits/main) — Externally accessible.** Added a hardened Nginx configuration for the public static site, HTTPS-only access, and automatic certificate renewal compatibility.
 
