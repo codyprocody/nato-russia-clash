@@ -14,6 +14,8 @@ No build step is needed. Open `index.html` in a browser, or serve the folder wit
 
 ## Changelog
 
+**2026-08-28 — [Minimal dashboard](https://github.com/codyprocody/nato-russia-clash/commits/main) — Simplified the interface.** Replaced the editorial landing-page layout with a direct question, percentage, reasoning, review times, and history.
+
 **2026-08-28 — [Scheduled assessment log](https://github.com/codyprocody/nato-russia-clash/commits/main) — Percentage-first dashboard.** Reworked the dashboard around one recorded percentage, a concise justification, a complete assessment history, and three daily review checkpoints at 06:00, 12:00, and 18:00 EEST.
 
 **2026-08-28 — [Public HTTPS deployment](https://github.com/codyprocody/nato-russia-clash/commits/main) — Externally accessible.** Added a hardened Nginx configuration for the public static site, HTTPS-only access, and automatic certificate renewal compatibility.
